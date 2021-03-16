@@ -1,6 +1,6 @@
 # Installation
 
-These aregit the following steps to install the project:
+These are the following steps to install the project:
 1. First clone the repository using: git clone https://github.com/mhina17/backEndDeveloperExam.git
 2. Go to the project directory and open the cmd.
 3. Run composer install
@@ -13,8 +13,11 @@ These aregit the following steps to install the project:
 9. Run http://127.0.0.1:8000/ to your browser.
 
 - Admin Login credentials:
+
 email: mhina@gmail.com  |  password: Sangeyasha
+
 email: dominic@gmail.com | password: Sange
+
 email: admin@gmail.com"  | password: Yasha
 
 
